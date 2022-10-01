@@ -1,0 +1,10 @@
+p {
+  color: steelblue;
+  font-family: "Montserrat", sans-serif;
+}
+
+li {
+  margin: 5px;
+  border: 1px solid black;
+  padding: 10px;
+}
